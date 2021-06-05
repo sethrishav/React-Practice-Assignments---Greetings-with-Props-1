@@ -2,7 +2,7 @@
 
 import React from "react";
 
-function Welcome(props){
+ Welcome(props){
      return(
         <div>
         <h1>Hey{props.name}!</h1>
